@@ -1,0 +1,20 @@
+{
+    "name": "Game.Bootstrap",
+    "rootNamespace": "",
+    "references": [
+        "Zenject",
+        "Game.Core",
+        "Game.Infrastructure",
+        "Game.UI",
+        "Game.Flow"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
